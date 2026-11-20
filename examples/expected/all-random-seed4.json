@@ -1,0 +1,21 @@
+{
+ "comparisons": "10000",
+ "input_function": "2",
+ "interceptor_wins_percent": "100.000000",
+ "lpi_wins": "0",
+ "lpi_wins_percent": "0.000000",
+ "p_intercept_t1": "1.116224e-03",
+ "p_intercept_t10": "9.047889e-03",
+ "p_intercept_t100": "8.498177e-02",
+ "p_intercept_t1000": "5.877122e-01",
+ "p_intercept_t10000": "9.998578e-01",
+ "p_mainlobe_t1": "1.116224e-03",
+ "p_mainlobe_t10": "9.047889e-03",
+ "p_mainlobe_t100": "8.498177e-02",
+ "p_mainlobe_t1000": "5.877122e-01",
+ "p_mainlobe_t10000": "9.998578e-01",
+ "ratio_max": "4.752147e-01",
+ "ratio_median": "3.861881e-03",
+ "ratio_min": "9.971513e-06",
+ "seed": "4"
+}
