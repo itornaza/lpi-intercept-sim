@@ -1,4 +1,5 @@
-# lpi-intercept-sim: how low is "low probability of intercept"?
+# LPI Interception Simulator
+## How low is "low"?
 
 lpi-intercept-sim is a MATLAB program that pits a low-probability-of-intercept (LPI) radar against a
 non-cooperative intercept receiver. It compares the radar's maximum detection range with the
